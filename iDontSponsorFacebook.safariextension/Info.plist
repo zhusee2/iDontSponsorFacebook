@@ -21,7 +21,12 @@
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
-		<dict/>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string>i-dont-sponsor-facebook.user.js</string>
+			</array>
+		</dict>
 	</dict>
 	<key>Description</key>
 	<string>Automatically hides the "sponsored" Facebook posts. Forked from @dannvix.</string>
