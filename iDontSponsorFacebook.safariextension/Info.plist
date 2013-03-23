@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Zhusee / @dannvix</string>
+	<key>Builder Version</key>
+	<string>8536.28.10</string>
+	<key>CFBundleDisplayName</key>
+	<string>iDontSponsorFacebook</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.zhusee2.extensions.idontsponsorfacebook</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+	</dict>
+	<key>Description</key>
+	<string>Automatically hides the "sponsored" Facebook posts. Forked from @dannvix.</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>*.facebook.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://zhusee2.github.com/iDontSponsorFacebook/update.plist</string>
+	<key>Website</key>
+	<string>http://zhusee2.github.com/iDontSponsorFacebook</string>
+</dict>
+</plist>
